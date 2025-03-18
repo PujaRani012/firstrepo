@@ -1,4 +1,4 @@
 # firstrepo
 this is my first repositry
 <br>
-Puja Rani Panda
+Puja Rani Panda(author)
